@@ -1,0 +1,40 @@
+_repo: Weisst-Du-wieviel-Sternlein-stehen_67644
+_version: 0.0.1
+alternative_title: Weisst Du wieviel Sternlein stehen?
+contributor:
+  illustrator:
+    agent_name: Lewinski, Anneliese von
+    gutenberg_agent_id: '54374'
+    url: http://www.gutenberg.org/2009/agents/54374
+creator:
+  author:
+    agent_name: Klett, Gertrud Ingeborg
+    aliases:
+    - Klett, Ingeborg
+    - Klett, G. I.
+    birthdate: 1871
+    deathdate: 1917
+    gutenberg_agent_id: '46634'
+    url: http://www.gutenberg.org/2009/agents/46634
+    wikipedia: https://de.wikipedia.org/wiki/Gertrud_Ingeborg_Klett
+description: ''
+gutenberg_issued: '2022-03-17'
+identifiers:
+  gutenberg: '67644'
+language: de
+pgterms:marc904: https://scripta.bbf.dipf.de/viewer/!metadata/347522394/1/LOG_0000/#
+pgterms:marc905: 20201129063742lewinski
+pgterms:marc906: '1911'
+pgterms:marc907: de
+production_note: Bibliothek für Bildungsgeschichtliche Forschung des DIPF (https://scripta.bbf.dipf.de)
+  and The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :J. F. Schreiber,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry, German'
+- !lcc 'PZ'
+- GITenberg
+title: Weißt Du wieviel Sternlein stehen?
+url: http://www.gutenberg.org/ebooks/67644
