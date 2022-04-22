@@ -6,6 +6,9 @@ contributor:
     agent_name: Lewinski, Anneliese von
     gutenberg_agent_id: '54374'
     url: http://www.gutenberg.org/2009/agents/54374
+covers:
+- cover_type: archival
+  image_path: 67644-h/images/cover.jpg
 creator:
   author:
     agent_name: Klett, Gertrud Ingeborg
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46634
     wikipedia: https://de.wikipedia.org/wiki/Gertrud_Ingeborg_Klett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67644#Weisst-Du-wieviel-Sternlein-stehen
 gutenberg_issued: '2022-03-17'
 identifiers:
   gutenberg: '67644'
